@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+.form{
+    color: azure;
+    height: 200px;
+    width: 200px;
+    margin-left: 35%;
+    border:2px rgb(198, 147, 116) dashed;
+    border-radius: 10%;
+  }
+  .text{
+    margin-left: 10%;
+    padding-top: 09%;
+    padding-right: 09%;
+    font-weight: 300;
+    font-size: 017px;
+  }
